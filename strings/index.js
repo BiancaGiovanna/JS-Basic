@@ -5,5 +5,4 @@
 
 let string = "Um texto";
 
-console.log(string);
-
+console.log(string.toLowerCase);
