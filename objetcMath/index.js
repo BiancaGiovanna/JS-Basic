@@ -1,4 +1,4 @@
-let num1 = 16;
+let num1 = 16.5643;
 
 // let num2 = Math.floor(num1)  // arrendondar pra baixo
 // let num2 = Math.ceil(num1)  // arrendondar pra cima
