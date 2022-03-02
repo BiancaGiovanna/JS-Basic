@@ -1,4 +1,4 @@
-let num1 = 16.5643;
+let num1 = 16.56434654651;
 
 // let num2 = Math.floor(num1)  // arrendondar pra baixo
 // let num2 = Math.ceil(num1)  // arrendondar pra cima
@@ -8,3 +8,4 @@ let num1 = 16.5643;
 
 // const aleatorio = Math.random();
 
+console.log(num1.toFixed(4))
